@@ -87,7 +87,3 @@ If you have any questions or suggestions, please feel free to contact us:
     Email: zobirofkir19@gmail.com
     GitHub: zobir ofkir
 
-go
-
-
-Remember to replace placeholders like `https://i0.wp.com/tlcms.org/wp-content/uploads/2019/07/Zoofari-2019.jpg?fit=1536%2C960&ssl=1`, `zobir ofkir`, and `zobirofkir19@gmail.com` with the appropriate information for your project. Additionally, make sure to include the license file (`LICENSE`) in your repository.
