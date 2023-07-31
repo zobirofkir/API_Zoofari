@@ -1,0 +1,5 @@
+Fastapi
+sqlalchemy
+stripe
+CORS
+uvicorn
