@@ -1,6 +1,6 @@
 # Zoofari Website Backend
 
-![Zoofari Logo](https://i0.wp.com/tlcms.org/wp-content/uploads/2019/07/Zoofari-2019.jpg?fit=1536%2C960&ssl=1)
+![Zoofari Logo](https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fast-food-logo%2Cchef-logo%2Crestaurant-logo%2Cfire-design-template-7648600f54c48617d64e973dd3af8cda_screen.jpg?ts=1663142017)
 
 ## Description
 
